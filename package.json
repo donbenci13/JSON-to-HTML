@@ -1,5 +1,5 @@
 {
-  "name": "template-styling",
+  "name": "jsontohtml",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "lite-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Don Bencilao",
   "license": "ISC",
   "dependencies": {
     "lite-server": "^2.6.1"
