@@ -5,19 +5,19 @@
             "type": "Men",
             "countries": [
                 {
-                    "location": "Australia",
+                    "country": "Australia",
                     "count": "12.84M"
                 },
                 {
-                    "location": "Indonesia",
-                    "count": "139.13M"
-                },
-                {
-                    "location": "Ghana",
+                    "country": "Ghana",
                     "count": "16.46M"
                 },
                 {
-                    "location": "Kenya",
+                    "country": "Indonesia",
+                    "count": "139.13M"
+                },
+                {
+                    "country": "Kenya",
                     "count": "27.32M"
                 }
             ]
@@ -27,19 +27,19 @@
             "type": "WOMEN",
             "countries": [
                 {
-                    "location": "Australia",
+                    "country": "Australia",
                     "count": "12.94M"
                 },
                 {
-                    "location": "Indonesia",
-                    "count": "137.23M"
-                },
-                {
-                    "location": "Ghana",
+                    "country": "Ghana",
                     "count": "16.38M"
                 },
                 {
-                    "location": "Kenya",
+                    "country": "Indonesia",
+                    "count": "137.23M"
+                },
+                {
+                    "country": "Kenya",
                     "count": "27.66M"
                 }
             ]
@@ -49,19 +49,19 @@
             "type": "Youth",
             "countries": [
                 {
-                    "location": "Australia",
+                    "country": "Australia",
                     "count": "5.71M"
                 },
                 {
-                    "location": "Indonesia",
-                    "count": "82.96M"
-                },
-                {
-                    "location": "Ghana",
+                    "country": "Ghana",
                     "count": "14.62M"
                 },
                 {
-                    "location": "Kenya",
+                    "country": "Indonesia",
+                    "count": "82.96M"
+                },
+                {
+                    "country": "Kenya",
                     "count": "24.42M"
                 }
             ]
